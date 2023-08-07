@@ -1,0 +1,15 @@
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\ConsoleApp1\bin\Debug\net6.0\InterfaceExample.exe
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\ConsoleApp1\bin\Debug\net6.0\InterfaceExample.deps.json
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\ConsoleApp1\bin\Debug\net6.0\InterfaceExample.runtimeconfig.json
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\ConsoleApp1\bin\Debug\net6.0\InterfaceExample.dll
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\ConsoleApp1\bin\Debug\net6.0\InterfaceExample.pdb
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\ConsoleApp1\obj\Debug\net6.0\InterfaceExample.csproj.AssemblyReference.cache
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\ConsoleApp1\obj\Debug\net6.0\InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\ConsoleApp1\obj\Debug\net6.0\InterfaceExample.AssemblyInfoInputs.cache
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\ConsoleApp1\obj\Debug\net6.0\InterfaceExample.AssemblyInfo.cs
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\ConsoleApp1\obj\Debug\net6.0\InterfaceExample.csproj.CoreCompileInputs.cache
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\ConsoleApp1\obj\Debug\net6.0\InterfaceExample.dll
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\ConsoleApp1\obj\Debug\net6.0\refint\InterfaceExample.dll
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\ConsoleApp1\obj\Debug\net6.0\InterfaceExample.pdb
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\ConsoleApp1\obj\Debug\net6.0\InterfaceExample.genruntimeconfig.cache
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\ConsoleApp1\obj\Debug\net6.0\ref\InterfaceExample.dll
