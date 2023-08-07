@@ -1,0 +1,15 @@
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\WheelerAbstractClassExProject\bin\Debug\net6.0\WheelerAbstractClassExProject.exe
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\WheelerAbstractClassExProject\bin\Debug\net6.0\WheelerAbstractClassExProject.deps.json
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\WheelerAbstractClassExProject\bin\Debug\net6.0\WheelerAbstractClassExProject.runtimeconfig.json
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\WheelerAbstractClassExProject\bin\Debug\net6.0\WheelerAbstractClassExProject.dll
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\WheelerAbstractClassExProject\bin\Debug\net6.0\WheelerAbstractClassExProject.pdb
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\WheelerAbstractClassExProject\obj\Debug\net6.0\WheelerAbstractClassExProject.csproj.AssemblyReference.cache
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\WheelerAbstractClassExProject\obj\Debug\net6.0\WheelerAbstractClassExProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\WheelerAbstractClassExProject\obj\Debug\net6.0\WheelerAbstractClassExProject.AssemblyInfoInputs.cache
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\WheelerAbstractClassExProject\obj\Debug\net6.0\WheelerAbstractClassExProject.AssemblyInfo.cs
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\WheelerAbstractClassExProject\obj\Debug\net6.0\WheelerAbstractClassExProject.csproj.CoreCompileInputs.cache
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\WheelerAbstractClassExProject\obj\Debug\net6.0\WheelerAbstractClassExProject.dll
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\WheelerAbstractClassExProject\obj\Debug\net6.0\refint\WheelerAbstractClassExProject.dll
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\WheelerAbstractClassExProject\obj\Debug\net6.0\WheelerAbstractClassExProject.pdb
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\WheelerAbstractClassExProject\obj\Debug\net6.0\WheelerAbstractClassExProject.genruntimeconfig.cache
+D:\Learning\Git Repository\CsharpInterviewCodes\OOPSCodes\WheelerAbstractClassExProject\obj\Debug\net6.0\ref\WheelerAbstractClassExProject.dll
